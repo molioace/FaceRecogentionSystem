@@ -1,0 +1,9 @@
+fastapi~=0.136.1
+uvicorn
+python-multipart
+opencv-python~=4.13.0.92
+numpy~=2.4.4
+faiss-cpu
+onnxruntime~=1.25.1
+scikit-image~=0.26.0
+requests~=2.33.1
